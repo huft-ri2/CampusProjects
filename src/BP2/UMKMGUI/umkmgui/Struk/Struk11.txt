@@ -1,0 +1,26 @@
+KING
+Jl. Ahmad Yani No.319, Dukuh Menanggal, Kec. Gayungan
+Surabaya, Jawa Timur 60234
+Sedia aneka snack lezat
+==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==
+Pelanggan   ID     : -
+            Nama   : Nabil
+            Alamat : -
+            Jenis  : Pelanggan umum
+==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==
+No. Transaksi      : KST-11
+Kasir              : AdminKing
+==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==
+[Kode]   [Nama menu]   [Qty]   [Harga]   [Total]
+==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==
+[KB1]   [Baby Crab]   [100]   [10000]   [1000000]
+[KA3]   [Bakso Goreng Mekar]   [25]   [10000]   [250000]
+==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==
+Jumlah item        : 125 item
+Total harga        : 1530000
+Diskon             : 10%
+Biaya akhir        : 1377000
+==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==
+Mendaftar sebagai pelanggan dan sering-sering berbelanja
+membuat Anda memiliki peluang untuk menjadi pelanggan VIP
+dan memberikan Anda diskon sebesar 10% dari biaya akhir!

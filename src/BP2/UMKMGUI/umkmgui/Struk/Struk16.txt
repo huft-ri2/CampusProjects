@@ -1,0 +1,28 @@
+KING
+Jl. Ahmad Yani No.319, Dukuh Menanggal, Kec. Gayungan
+Surabaya, Jawa Timur 60234
+Sedia aneka snack lezat
+==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==
+Pelanggan   ID     : -
+            Nama   : yuan
+            Alamat : -
+            Jenis  : Pelanggan umum
+==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==
+No. Transaksi      : KST-16
+Kasir              : AdminKing
+==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==
+[Kode]   [Nama menu]   [Qty]   [Harga]   [Total]
+==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==
+[KA3]   [Bakso Goreng Mekar]   [3]   [10000]   [30000]
+==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==
+Jumlah item        : 3 item
+Total harga        : 30000
+Diskon             : -
+Biaya akhir        : 30000
+==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==
+Bayar              : 50000
+Kembalian          : 20000
+==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==
+Mendaftar sebagai pelanggan dan sering-sering berbelanja
+membuat Anda memiliki peluang untuk menjadi pelanggan VIP
+dan memberikan Anda diskon sebesar 10% dari biaya akhir!

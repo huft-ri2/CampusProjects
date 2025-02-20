@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Latihan2Pemdesk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9EB20EE-9CC2-4C52-AD06-6077E7E197C2}|Latihan2Pemdesk\\Latihan2Pemdesk.vbproj|c:\\users\\hp\\source\\repos\\latihan2pemdesk\\latihan2pemdesk\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D9EB20EE-9CC2-4C52-AD06-6077E7E197C2}|Latihan2Pemdesk\\Latihan2Pemdesk.vbproj|solutionrelative:latihan2pemdesk\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F36B3F8F-A02A-46C5-8720-C04745D64AAF}|Latihan2.1Pemdesk\\Latihan2.1Pemdesk.vbproj|c:\\users\\hp\\source\\repos\\latihan2pemdesk\\latihan2.1pemdesk\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F36B3F8F-A02A-46C5-8720-C04745D64AAF}|Latihan2.1Pemdesk\\Latihan2.1Pemdesk.vbproj|solutionrelative:latihan2.1pemdesk\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F36B3F8F-A02A-46C5-8720-C04745D64AAF}|Latihan2.1Pemdesk\\Latihan2.1Pemdesk.vbproj|c:\\users\\hp\\source\\repos\\latihan2pemdesk\\latihan2.1pemdesk\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F36B3F8F-A02A-46C5-8720-C04745D64AAF}|Latihan2.1Pemdesk\\Latihan2.1Pemdesk.vbproj|solutionrelative:latihan2.1pemdesk\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Latihan2Pemdesk\\Latihan2Pemdesk\\Form1.vb",
+              "RelativeDocumentMoniker": "Latihan2Pemdesk\\Form1.vb",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Latihan2Pemdesk\\Latihan2Pemdesk\\Form1.vb [Design]",
+              "RelativeToolTip": "Latihan2Pemdesk\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-02T02:19:51.765Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Latihan2Pemdesk\\Latihan2.1Pemdesk\\Form1.vb",
+              "RelativeDocumentMoniker": "Latihan2.1Pemdesk\\Form1.vb",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Latihan2Pemdesk\\Latihan2.1Pemdesk\\Form1.vb",
+              "RelativeToolTip": "Latihan2.1Pemdesk\\Form1.vb",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAtwBMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-02T02:06:24.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Latihan2Pemdesk\\Latihan2.1Pemdesk\\Form1.vb",
+              "RelativeDocumentMoniker": "Latihan2.1Pemdesk\\Form1.vb",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Latihan2Pemdesk\\Latihan2.1Pemdesk\\Form1.vb [Design]",
+              "RelativeToolTip": "Latihan2.1Pemdesk\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-02T02:03:30.257Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

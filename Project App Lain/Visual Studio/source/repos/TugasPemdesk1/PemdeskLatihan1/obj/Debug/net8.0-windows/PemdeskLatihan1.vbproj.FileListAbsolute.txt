@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\TugasPemdesk1\PemdeskLatihan1\bin\Debug\net8.0-windows\PemdeskLatihan1.exe
+C:\Users\HP\source\repos\TugasPemdesk1\PemdeskLatihan1\bin\Debug\net8.0-windows\PemdeskLatihan1.deps.json
+C:\Users\HP\source\repos\TugasPemdesk1\PemdeskLatihan1\bin\Debug\net8.0-windows\PemdeskLatihan1.runtimeconfig.json
+C:\Users\HP\source\repos\TugasPemdesk1\PemdeskLatihan1\bin\Debug\net8.0-windows\PemdeskLatihan1.dll
+C:\Users\HP\source\repos\TugasPemdesk1\PemdeskLatihan1\bin\Debug\net8.0-windows\PemdeskLatihan1.pdb
+C:\Users\HP\source\repos\TugasPemdesk1\PemdeskLatihan1\obj\Debug\net8.0-windows\PemdeskLatihan1.Form1.resources
+C:\Users\HP\source\repos\TugasPemdesk1\PemdeskLatihan1\obj\Debug\net8.0-windows\PemdeskLatihan1.vbproj.GenerateResource.cache
+C:\Users\HP\source\repos\TugasPemdesk1\PemdeskLatihan1\obj\Debug\net8.0-windows\PemdeskLatihan1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\TugasPemdesk1\PemdeskLatihan1\obj\Debug\net8.0-windows\PemdeskLatihan1.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\TugasPemdesk1\PemdeskLatihan1\obj\Debug\net8.0-windows\PemdeskLatihan1.AssemblyInfo.vb
+C:\Users\HP\source\repos\TugasPemdesk1\PemdeskLatihan1\obj\Debug\net8.0-windows\PemdeskLatihan1.vbproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\TugasPemdesk1\PemdeskLatihan1\obj\Debug\net8.0-windows\PemdeskLatihan1.dll
+C:\Users\HP\source\repos\TugasPemdesk1\PemdeskLatihan1\obj\Debug\net8.0-windows\refint\PemdeskLatihan1.dll
+C:\Users\HP\source\repos\TugasPemdesk1\PemdeskLatihan1\obj\Debug\net8.0-windows\PemdeskLatihan1.pdb
+C:\Users\HP\source\repos\TugasPemdesk1\PemdeskLatihan1\obj\Debug\net8.0-windows\PemdeskLatihan1.genruntimeconfig.cache
+C:\Users\HP\source\repos\TugasPemdesk1\PemdeskLatihan1\obj\Debug\net8.0-windows\ref\PemdeskLatihan1.dll

@@ -1,0 +1,30 @@
+KING
+Jl. Ahmad Yani No.319, Dukuh Menanggal, Kec. Gayungan
+Surabaya, Jawa Timur 60234
+Sedia aneka snack lezat
+==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==
+Pelanggan   ID     : 0005
+            Nama   : Hanif
+            Alamat : Surabaya
+            Jenis  : Member VIP
+==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==
+No. Transaksi      : KST-15
+Kasir              : AdminKing
+==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==
+[Kode]   [Nama menu]   [Qty]   [Harga]   [Total]
+==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==
+[KB1]   [Baby Crab]   [4]   [10000]   [40000]
+[KA4]   [Gohyoung Ayam]   [2]   [20000]   [40000]
+[KA1]   [Pangsit Basah]   [3]   [15000]   [45000]
+==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==
+Jumlah item        : 9 item
+Total harga        : 220000
+Diskon             : 10%
+Biaya akhir        : 198000
+==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==
+Bayar              : 200000
+Kembalian          : 2000
+==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==
+Mendaftar sebagai pelanggan dan sering-sering berbelanja
+membuat Anda memiliki peluang untuk menjadi pelanggan VIP
+dan memberikan Anda diskon sebesar 10% dari biaya akhir!

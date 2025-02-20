@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\stealnt\\stealnt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30A42EF4-C59E-4381-B977-38764872E688}|..\\..\\stealnt3\\stealnt3\\stealnt3.vbproj|c:\\users\\hp\\source\\repos\\stealnt3\\stealnt3\\form1login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A42EF4-C59E-4381-B977-38764872E688}|..\\..\\stealnt3\\stealnt3\\stealnt3.vbproj|c:\\users\\hp\\source\\repos\\stealnt3\\stealnt3\\form1login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7F31CF-07DF-4346-B734-A8E0629C4BDE}|stealnt.vbproj|c:\\users\\hp\\source\\repos\\stealnt\\stealnt\\form1login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9A7F31CF-07DF-4346-B734-A8E0629C4BDE}|stealnt.vbproj|solutionrelative:form1login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7F31CF-07DF-4346-B734-A8E0629C4BDE}|stealnt.vbproj|c:\\users\\hp\\source\\repos\\stealnt\\stealnt\\form3forgotpassword.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9A7F31CF-07DF-4346-B734-A8E0629C4BDE}|stealnt.vbproj|solutionrelative:form3forgotpassword.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A42EF4-C59E-4381-B977-38764872E688}|..\\..\\stealnt3\\stealnt3\\stealnt3.vbproj|c:\\users\\hp\\source\\repos\\stealnt3\\stealnt3\\form3forgotpassword.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7F31CF-07DF-4346-B734-A8E0629C4BDE}|stealnt.vbproj|c:\\users\\hp\\source\\repos\\stealnt\\stealnt\\form3forgotpassword.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9A7F31CF-07DF-4346-B734-A8E0629C4BDE}|stealnt.vbproj|solutionrelative:form3forgotpassword.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A42EF4-C59E-4381-B977-38764872E688}|..\\..\\stealnt3\\stealnt3\\stealnt3.vbproj|c:\\users\\hp\\source\\repos\\stealnt3\\stealnt3\\form3forgotpassword.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7F31CF-07DF-4346-B734-A8E0629C4BDE}|stealnt.vbproj|c:\\users\\hp\\source\\repos\\stealnt\\stealnt\\databaseconnection.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9A7F31CF-07DF-4346-B734-A8E0629C4BDE}|stealnt.vbproj|solutionrelative:databaseconnection.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7F31CF-07DF-4346-B734-A8E0629C4BDE}|stealnt.vbproj|c:\\users\\hp\\source\\repos\\stealnt\\stealnt\\stealnt.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9A7F31CF-07DF-4346-B734-A8E0629C4BDE}|stealnt.vbproj|solutionrelative:stealnt.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7F31CF-07DF-4346-B734-A8E0629C4BDE}|stealnt.vbproj|c:\\users\\hp\\source\\repos\\stealnt\\stealnt\\form2register.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9A7F31CF-07DF-4346-B734-A8E0629C4BDE}|stealnt.vbproj|solutionrelative:form2register.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7F31CF-07DF-4346-B734-A8E0629C4BDE}|stealnt.vbproj|c:\\users\\hp\\source\\repos\\stealnt\\stealnt\\form2register.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9A7F31CF-07DF-4346-B734-A8E0629C4BDE}|stealnt.vbproj|solutionrelative:form2register.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7F31CF-07DF-4346-B734-A8E0629C4BDE}|stealnt.vbproj|c:\\users\\hp\\source\\repos\\stealnt\\stealnt\\form4otp.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9A7F31CF-07DF-4346-B734-A8E0629C4BDE}|stealnt.vbproj|solutionrelative:form4otp.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7F31CF-07DF-4346-B734-A8E0629C4BDE}|stealnt.vbproj|c:\\users\\hp\\source\\repos\\stealnt\\stealnt\\form4otp.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9A7F31CF-07DF-4346-B734-A8E0629C4BDE}|stealnt.vbproj|solutionrelative:form4otp.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "stealnt",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\stealnt\\stealnt\\stealnt.vbproj",
+              "RelativeDocumentMoniker": "stealnt.vbproj",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\stealnt\\stealnt\\stealnt.vbproj",
+              "RelativeToolTip": "stealnt.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-10-19T13:05:04.565Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1Login.vb",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\stealnt3\\stealnt3\\Form1Login.vb",
+              "RelativeDocumentMoniker": "..\\..\\stealnt3\\stealnt3\\Form1Login.vb",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\stealnt3\\stealnt3\\Form1Login.vb",
+              "RelativeToolTip": "..\\..\\stealnt3\\stealnt3\\Form1Login.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-21T01:05:28.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form3ForgotPassword.vb",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\stealnt\\stealnt\\Form3ForgotPassword.vb",
+              "RelativeDocumentMoniker": "Form3ForgotPassword.vb",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\stealnt\\stealnt\\Form3ForgotPassword.vb",
+              "RelativeToolTip": "Form3ForgotPassword.vb",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAgwAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-21T01:02:36.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form3ForgotPassword.vb",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\stealnt3\\stealnt3\\Form3ForgotPassword.vb",
+              "RelativeDocumentMoniker": "..\\..\\stealnt3\\stealnt3\\Form3ForgotPassword.vb",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\stealnt3\\stealnt3\\Form3ForgotPassword.vb",
+              "RelativeToolTip": "..\\..\\stealnt3\\stealnt3\\Form3ForgotPassword.vb",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-21T01:02:15.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1Login.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\stealnt\\stealnt\\Form1Login.vb",
+              "RelativeDocumentMoniker": "Form1Login.vb",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\stealnt\\stealnt\\Form1Login.vb [Design]",
+              "RelativeToolTip": "Form1Login.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-19T16:03:33.603Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1Login.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\stealnt3\\stealnt3\\Form1Login.vb",
+              "RelativeDocumentMoniker": "..\\..\\stealnt3\\stealnt3\\Form1Login.vb",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\stealnt3\\stealnt3\\Form1Login.vb [Design]",
+              "RelativeToolTip": "..\\..\\stealnt3\\stealnt3\\Form1Login.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-21T00:59:31.345Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3ForgotPassword.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\stealnt\\stealnt\\Form3ForgotPassword.vb",
+              "RelativeDocumentMoniker": "Form3ForgotPassword.vb",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\stealnt\\stealnt\\Form3ForgotPassword.vb [Design]",
+              "RelativeToolTip": "Form3ForgotPassword.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-21T01:02:34.239Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form3ForgotPassword.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\stealnt3\\stealnt3\\Form3ForgotPassword.vb",
+              "RelativeDocumentMoniker": "..\\..\\stealnt3\\stealnt3\\Form3ForgotPassword.vb",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\stealnt3\\stealnt3\\Form3ForgotPassword.vb [Design]",
+              "RelativeToolTip": "..\\..\\stealnt3\\stealnt3\\Form3ForgotPassword.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-21T01:02:13.382Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DatabaseConnection.vb",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\stealnt\\stealnt\\DatabaseConnection.vb",
+              "RelativeDocumentMoniker": "DatabaseConnection.vb",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\stealnt\\stealnt\\DatabaseConnection.vb",
+              "RelativeToolTip": "DatabaseConnection.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-21T00:53:50.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form2Register.vb",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\stealnt\\stealnt\\Form2Register.vb",
+              "RelativeDocumentMoniker": "Form2Register.vb",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\stealnt\\stealnt\\Form2Register.vb",
+              "RelativeToolTip": "Form2Register.vb",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-21T00:49:05.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form2Register.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\stealnt\\stealnt\\Form2Register.vb",
+              "RelativeDocumentMoniker": "Form2Register.vb",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\stealnt\\stealnt\\Form2Register.vb [Design]",
+              "RelativeToolTip": "Form2Register.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-21T00:49:03.066Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form4OTP.vb",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\stealnt\\stealnt\\Form4OTP.vb",
+              "RelativeDocumentMoniker": "Form4OTP.vb",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\stealnt\\stealnt\\Form4OTP.vb",
+              "RelativeToolTip": "Form4OTP.vb",
+              "ViewState": "AgIAAAQAAAAAAAAAAIA3wAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-21T00:45:32.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form4OTP.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\stealnt\\stealnt\\Form4OTP.vb",
+              "RelativeDocumentMoniker": "Form4OTP.vb",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\stealnt\\stealnt\\Form4OTP.vb [Design]",
+              "RelativeToolTip": "Form4OTP.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-19T16:00:55.844Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

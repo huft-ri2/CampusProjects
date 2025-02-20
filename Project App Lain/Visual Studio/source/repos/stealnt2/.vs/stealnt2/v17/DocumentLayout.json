@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\stealnt2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8589F4DD-22F3-4E51-A78A-96CC11A0B83F}|stealnt2\\stealnt2.vbproj|c:\\users\\hp\\source\\repos\\stealnt2\\stealnt2\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8589F4DD-22F3-4E51-A78A-96CC11A0B83F}|stealnt2\\stealnt2.vbproj|solutionrelative:stealnt2\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8589F4DD-22F3-4E51-A78A-96CC11A0B83F}|stealnt2\\stealnt2.vbproj|c:\\users\\hp\\source\\repos\\stealnt2\\stealnt2\\form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8589F4DD-22F3-4E51-A78A-96CC11A0B83F}|stealnt2\\stealnt2.vbproj|solutionrelative:stealnt2\\form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8589F4DD-22F3-4E51-A78A-96CC11A0B83F}|stealnt2\\stealnt2.vbproj|c:\\users\\hp\\source\\repos\\stealnt2\\stealnt2\\stealnt2.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8589F4DD-22F3-4E51-A78A-96CC11A0B83F}|stealnt2\\stealnt2.vbproj|solutionrelative:stealnt2\\stealnt2.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8589F4DD-22F3-4E51-A78A-96CC11A0B83F}|stealnt2\\stealnt2.vbproj|c:\\users\\hp\\source\\repos\\stealnt2\\stealnt2\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8589F4DD-22F3-4E51-A78A-96CC11A0B83F}|stealnt2\\stealnt2.vbproj|solutionrelative:stealnt2\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8589F4DD-22F3-4E51-A78A-96CC11A0B83F}|stealnt2\\stealnt2.vbproj|c:\\users\\hp\\source\\repos\\stealnt2\\stealnt2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8589F4DD-22F3-4E51-A78A-96CC11A0B83F}|stealnt2\\stealnt2.vbproj|solutionrelative:stealnt2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8589F4DD-22F3-4E51-A78A-96CC11A0B83F}|stealnt2\\stealnt2.vbproj|c:\\users\\hp\\source\\repos\\stealnt2\\stealnt2\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8589F4DD-22F3-4E51-A78A-96CC11A0B83F}|stealnt2\\stealnt2.vbproj|solutionrelative:stealnt2\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8589F4DD-22F3-4E51-A78A-96CC11A0B83F}|stealnt2\\stealnt2.vbproj|c:\\users\\hp\\source\\repos\\stealnt2\\stealnt2\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8589F4DD-22F3-4E51-A78A-96CC11A0B83F}|stealnt2\\stealnt2.vbproj|solutionrelative:stealnt2\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8589F4DD-22F3-4E51-A78A-96CC11A0B83F}|stealnt2\\stealnt2.vbproj|c:\\users\\hp\\source\\repos\\stealnt2\\stealnt2\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8589F4DD-22F3-4E51-A78A-96CC11A0B83F}|stealnt2\\stealnt2.vbproj|solutionrelative:stealnt2\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "stealnt2",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\stealnt2\\stealnt2\\stealnt2.vbproj",
+              "RelativeDocumentMoniker": "stealnt2\\stealnt2.vbproj",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\stealnt2\\stealnt2\\stealnt2.vbproj",
+              "RelativeToolTip": "stealnt2\\stealnt2.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-10-14T18:08:38.252Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\stealnt2\\stealnt2\\Form2.vb",
+              "RelativeDocumentMoniker": "stealnt2\\Form2.vb",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\stealnt2\\stealnt2\\Form2.vb",
+              "RelativeToolTip": "stealnt2\\Form2.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T20:00:49.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form5.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\stealnt2\\stealnt2\\Form5.vb",
+              "RelativeDocumentMoniker": "stealnt2\\Form5.vb",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\stealnt2\\stealnt2\\Form5.vb [Design]",
+              "RelativeToolTip": "stealnt2\\Form5.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T19:42:04.447Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\stealnt2\\stealnt2\\Form1.vb",
+              "RelativeDocumentMoniker": "stealnt2\\Form1.vb",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\stealnt2\\stealnt2\\Form1.vb [Design]",
+              "RelativeToolTip": "stealnt2\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T18:14:08.09Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\stealnt2\\stealnt2\\Form2.vb",
+              "RelativeDocumentMoniker": "stealnt2\\Form2.vb",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\stealnt2\\stealnt2\\Form2.vb [Design]",
+              "RelativeToolTip": "stealnt2\\Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T18:35:39.709Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\stealnt2\\stealnt2\\Form3.vb",
+              "RelativeDocumentMoniker": "stealnt2\\Form3.vb",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\stealnt2\\stealnt2\\Form3.vb [Design]",
+              "RelativeToolTip": "stealnt2\\Form3.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T19:25:47.368Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form4.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\stealnt2\\stealnt2\\Form4.vb",
+              "RelativeDocumentMoniker": "stealnt2\\Form4.vb",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\stealnt2\\stealnt2\\Form4.vb [Design]",
+              "RelativeToolTip": "stealnt2\\Form4.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T19:37:31.391Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form3.vb",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\stealnt2\\stealnt2\\Form3.vb",
+              "RelativeDocumentMoniker": "stealnt2\\Form3.vb",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\stealnt2\\stealnt2\\Form3.vb",
+              "RelativeToolTip": "stealnt2\\Form3.vb",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T19:33:34.254Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
